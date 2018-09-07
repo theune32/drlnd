@@ -22,7 +22,7 @@ LR = 5e-4               # learning rate
 UPDATE_EVERY = 4        # how often to update the network
 
 ### Results
-After XXX episodes the algorithm reached an average score of 13.0. See the below plot:
+After 592 episodes the algorithm reached an average score of 13.0. See the below plot:
 ![scores plot](navigation_result.png)
 
 ### Future Work
